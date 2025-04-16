@@ -1,9 +1,6 @@
-👋I 'm Antoine
-
+👋 I'm Antoine
 ========================
-
 Web developper
-
 --------------
 
 I'm an aspiring web developer with under a year of hands-on experience — and a whole lot of passion for building things that live on the web. 
