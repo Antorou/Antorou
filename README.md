@@ -4,7 +4,13 @@ Hi 👋 My name is Antoine
 Web developper
 --------------
 
-I'm an aspiring web developer with under a year of hands-on experience — and a whole lot of passion for building things that live on the web. 🌱 I'm learning by doing — building personal projects, exploring open source, and breaking things just to figure out how they work (then fixing them!). 🚀 My goal is to become a web developer capable of creating complete, production-ready apps from scratch. Let’s connect, collaborate, and grow together. Feel free to check out my projects and follow along on my journey!
+I'm an aspiring web developer with under a year of hands-on experience — and a whole lot of passion for building things that live on the web. 
+
+🌱 I'm learning by doing — building personal projects, exploring open source, and breaking things just to figure out how they work (then fixing them!). 
+🚀 My goal is to become a web developer capable of creating complete, production-ready apps from scratch. 
+
+Let’s connect, collaborate, and grow together. 
+Feel free to check out my projects and follow along on my journey!
 
 * 🌍  I'm based in Paris, FR
 * ✉️  You can contact me at [rousselotantoine7@gmail.com](mailto:rousselotantoine7@gmail.com)
