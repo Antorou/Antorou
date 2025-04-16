@@ -7,6 +7,7 @@ Web developper
 I'm an aspiring web developer with under a year of hands-on experience — and a whole lot of passion for building things that live on the web. 
 
 🌱 I'm learning by doing — building personal projects, exploring open source, and breaking things just to figure out how they work (then fixing them!). 
+
 🚀 My goal is to become a web developer capable of creating complete, production-ready apps from scratch. 
 
 Let’s connect, collaborate, and grow together. 
